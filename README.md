@@ -1,0 +1,2 @@
+# disease-identification
+mini project
