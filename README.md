@@ -21,21 +21,21 @@ Typhoid using K-Nearest Neighbors (KNN)
 🚀 Getting Started
 
  Step-by-Step Guide to Run the Project
-1. Install Python
-Make sure you have Python 3.8–3.11 installed.
-Check with: python --version
+1. Install Python,
+ Make sure you have Python 3.8–3.11 installed.
+ Check with: python --version
 
-2. Set Up a Virtual Environment (Recommended)
-cd DiseaseIdentification
-python -m venv venv
+2. Set Up a Virtual Environment (Recommended): 
+   cd DiseaseIdentification
+   python -m venv venv
 
 Activate it:
 Windows: venv\Scripts\activate
 macOS/Linux: source venv/bin/activate
 
-3. Install Required Packages
+3. Install Required Packages:
 pip install -r requirements.txt
 
-4. Run the Streamlit App
+4. Run the Streamlit App:
 streamlit run app.py
 
